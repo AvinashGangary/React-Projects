@@ -50,7 +50,7 @@ const App = () => {
         <h2 className="logo">React Projects</h2>
         <ul>
           <li className={activeSection === "dashboard" ? "active" : ""} onClick={() => setActiveSection("dashboard")}>Weather App</li>
-          <li className={activeSection === "clients" ? "active" : ""} onClick={() => setActiveSection("clients")}>News Website</li>
+          <li className={activeSection === "clients" ? "active" : ""} onClick={() => setActiveSection("clients")}>Tic-Tac-Toe</li>
           <li className={activeSection === "userManagement" ? "active" : ""} onClick={() => setActiveSection("userManagement")}>To-Do-List</li>
           <li className={activeSection === "activities" ? "active" : ""} onClick={() => setActiveSection("activities")}>Password-Generator</li>
           <li className={activeSection === "earnings" ? "active" : ""} onClick={() => setActiveSection("earnings")}>OTP-Input</li>
