@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Projects/static/css/main.201d010d.css",
-    "main.js": "/React-Projects/static/js/main.5a22fe0b.js",
-    "static/js/453.ed3810f9.chunk.js": "/React-Projects/static/js/453.ed3810f9.chunk.js",
+    "main.css": "/React-Projects/static/css/main.5355ca87.css",
+    "main.js": "/React-Projects/static/js/main.802cc7bc.js",
     "static/media/fa-solid-900.ttf": "/React-Projects/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
     "static/media/fa-brands-400.ttf": "/React-Projects/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
     "static/media/fa-solid-900.woff2": "/React-Projects/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
@@ -17,12 +16,11 @@
     "static/media/fa-v4compatibility.ttf": "/React-Projects/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
     "static/media/fa-v4compatibility.woff2": "/React-Projects/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
     "index.html": "/React-Projects/index.html",
-    "main.201d010d.css.map": "/React-Projects/static/css/main.201d010d.css.map",
-    "main.5a22fe0b.js.map": "/React-Projects/static/js/main.5a22fe0b.js.map",
-    "453.ed3810f9.chunk.js.map": "/React-Projects/static/js/453.ed3810f9.chunk.js.map"
+    "main.5355ca87.css.map": "/React-Projects/static/css/main.5355ca87.css.map",
+    "main.802cc7bc.js.map": "/React-Projects/static/js/main.802cc7bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.201d010d.css",
-    "static/js/main.5a22fe0b.js"
+    "static/css/main.5355ca87.css",
+    "static/js/main.802cc7bc.js"
   ]
 }
