@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/admin-panel/static/css/main.9a6645bc.css",
-    "main.js": "/admin-panel/static/js/main.051c62a4.js",
-    "static/js/453.ed3810f9.chunk.js": "/admin-panel/static/js/453.ed3810f9.chunk.js",
-    "static/media/fa-solid-900.ttf": "/admin-panel/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
-    "static/media/fa-brands-400.ttf": "/admin-panel/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
-    "static/media/fa-solid-900.woff2": "/admin-panel/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
-    "static/media/fa-brands-400.woff2": "/admin-panel/static/media/fa-brands-400.fdbb558523a380307689.woff2",
-    "static/media/fa-regular-400.ttf": "/admin-panel/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
-    "static/media/fa-regular-400.woff2": "/admin-panel/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
-    "static/media/error.png": "/admin-panel/static/media/error.21a7207bc6a88e4fc33f.png",
-    "static/media/Rain.png": "/admin-panel/static/media/Rain.513cb7a576bcdf46ceed.png",
-    "static/media/Clouds.png": "/admin-panel/static/media/Clouds.7ff9696cd50a5b082d4f.png",
-    "static/media/Clear.png": "/admin-panel/static/media/Clear.0756fd770f55ea454fd7.png",
-    "static/media/mist.png": "/admin-panel/static/media/mist.60e788a536e1af263009.png",
-    "static/media/fa-v4compatibility.ttf": "/admin-panel/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
-    "static/media/fa-v4compatibility.woff2": "/admin-panel/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
-    "index.html": "/admin-panel/index.html",
-    "main.9a6645bc.css.map": "/admin-panel/static/css/main.9a6645bc.css.map",
-    "main.051c62a4.js.map": "/admin-panel/static/js/main.051c62a4.js.map",
-    "453.ed3810f9.chunk.js.map": "/admin-panel/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/React-Projects/static/css/main.201d010d.css",
+    "main.js": "/React-Projects/static/js/main.5a22fe0b.js",
+    "static/js/453.ed3810f9.chunk.js": "/React-Projects/static/js/453.ed3810f9.chunk.js",
+    "static/media/fa-solid-900.ttf": "/React-Projects/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/fa-brands-400.ttf": "/React-Projects/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/fa-solid-900.woff2": "/React-Projects/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/fa-brands-400.woff2": "/React-Projects/static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/fa-regular-400.ttf": "/React-Projects/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/fa-regular-400.woff2": "/React-Projects/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/error.png": "/React-Projects/static/media/error.21a7207bc6a88e4fc33f.png",
+    "static/media/Rain.png": "/React-Projects/static/media/Rain.513cb7a576bcdf46ceed.png",
+    "static/media/Clouds.png": "/React-Projects/static/media/Clouds.7ff9696cd50a5b082d4f.png",
+    "static/media/Clear.png": "/React-Projects/static/media/Clear.0756fd770f55ea454fd7.png",
+    "static/media/mist.png": "/React-Projects/static/media/mist.60e788a536e1af263009.png",
+    "static/media/fa-v4compatibility.ttf": "/React-Projects/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/fa-v4compatibility.woff2": "/React-Projects/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
+    "index.html": "/React-Projects/index.html",
+    "main.201d010d.css.map": "/React-Projects/static/css/main.201d010d.css.map",
+    "main.5a22fe0b.js.map": "/React-Projects/static/js/main.5a22fe0b.js.map",
+    "453.ed3810f9.chunk.js.map": "/React-Projects/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a6645bc.css",
-    "static/js/main.051c62a4.js"
+    "static/css/main.201d010d.css",
+    "static/js/main.5a22fe0b.js"
   ]
 }
